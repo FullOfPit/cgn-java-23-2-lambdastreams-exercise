@@ -6,7 +6,7 @@ public class Isogram {
     überprüft, ob das Wort nur ein Isogramm ist (aus nicht-wiederholten Buchstaben besteht).
 
     Beisiel:
-        "Dermatoglyph" => keine sich-wiederholenden Buchstaben; => false
+        "Dermatoglyph" => keine sich-wiederholenden Buchstaben; => true
         "Abba" => A wiederholt sich, b wiederholt sich; => false
 
     Hinweis: Ein leerer String soll als Isogram verstanden werden; Groß/Kleinschreibung soll ignoriert werden.
